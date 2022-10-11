@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hermandev/hermandev/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/hermandev/hermandev/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
