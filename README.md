@@ -29,11 +29,11 @@
 ### -->
 
 <br clear="both">
-### 
+
 <div align="center">
 <img src="https://github.com/hermandev/hermandev/blob/output/snake.svg" alt="Snake animation" />
 </div>
-###
+
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCw0-_QeUgS4f20le8-wE9dw" target="_blank">
