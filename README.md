@@ -29,9 +29,10 @@
 ### -->
 
 <br clear="both">
-
+### 
+<div align="center">
 <img src="https://github.com/hermandev/hermandev/blob/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 <div align="center">
