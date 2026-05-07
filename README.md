@@ -5,21 +5,21 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Rust                     8 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.58 % 
-TypeScript               5 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
-YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Rust                     8 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.16 % 
+TypeScript               4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.15 % 
+YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+SQL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 10 mins      █████████████████████░░░░   83.07 % 
-Zed                      2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Obsidian                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Neovim                   14 hrs 13 mins      ██████████████████████░░░   86.08 % 
+Zed                      2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Obsidian                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      17 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2026 20:10:38 UTC
+ Last Updated on 07/05/2026 20:02:47 UTC
 <!--END_SECTION:waka-->
