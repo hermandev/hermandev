@@ -5,23 +5,23 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               4 hrs 55 mins       ████████████████░░░░░░░░░   64.71 % 
-JavaScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Rust                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+TypeScript               8 hrs 38 mins       ████████████████░░░░░░░░░   63.31 % 
+JavaScript               1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+CSS                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 33 mins       ████████████░░░░░░░░░░░░░   46.73 % 
-Unknown Wakatime         3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.11 % 
-Zed                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Obsidian                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Unknown Wakatime         6 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.09 % 
+Zed                      3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Neovim                   3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Obsidian                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Mac                      7 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/05/2026 19:49:35 UTC
+ Last Updated on 01/06/2026 21:49:41 UTC
 <!--END_SECTION:waka-->
