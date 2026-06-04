@@ -5,22 +5,22 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               15 hrs 11 mins      ████████████████░░░░░░░░░   64.93 % 
-Markdown                 3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-JavaScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-CSS                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               15 hrs 26 mins      ██████████████░░░░░░░░░░░   55.66 % 
+Markdown                 3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Rust                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+JavaScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+TOML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 13 mins      ███████████░░░░░░░░░░░░░░   43.72 % 
-Unknown Wakatime         7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Zed                      4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Obsidian                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Neovim                   10 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   38.90 % 
+Zed                      7 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+Unknown Wakatime         7 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Obsidian                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 
 💻 Operating System: 
-Mac                      23 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/06/2026 21:35:42 UTC
+ Last Updated on 04/06/2026 20:33:16 UTC
 <!--END_SECTION:waka-->
