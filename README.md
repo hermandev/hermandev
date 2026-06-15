@@ -5,23 +5,23 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-TypeScript               16 hrs 4 mins       █████████████░░░░░░░░░░░░   53.12 % 
-Rust                     9 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-TOML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TypeScript               14 hrs 26 mins      ██████████████░░░░░░░░░░░   54.74 % 
+Rust                     8 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+TOML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-Zed                      18 hrs 43 mins      ███████████████░░░░░░░░░░   61.89 % 
-Neovim                   9 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
-Obsidian                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Unknown Wakatime         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Zed                      15 hrs 27 mins      ███████████████░░░░░░░░░░   58.60 % 
+Neovim                   9 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.05 % 
+Unknown Wakatime         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Obsidian                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Mac                      29 hrs 57 mins      █████████████████████████   98.98 % 
-Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Mac                      26 hrs 4 mins       █████████████████████████   98.83 % 
+Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 
 
- Last Updated on 14/06/2026 20:07:10 UTC
+ Last Updated on 15/06/2026 21:34:00 UTC
 <!--END_SECTION:waka-->
