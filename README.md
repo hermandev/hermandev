@@ -1,25 +1,33 @@
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2030%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     14 hrs 49 mins      ████████████████░░░░░░░░░   64.32 % 
-TypeScript               4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Java Properties          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Dart                     24 hrs 40 mins      ███████████████████░░░░░░   77.51 % 
+TypeScript               3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Java Properties          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Neovim                   22 hrs 13 mins      ████████████████████████░   96.49 % 
-Zed                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Obsidian                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Neovim                   29 hrs 59 mins      ████████████████████████░   94.23 % 
+Zed                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Obsidian                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Mac                      23 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      31 hrs 49 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/07/2026 19:44:34 UTC
+ Last Updated on 27/07/2026 20:05:25 UTC
 <!--END_SECTION:waka-->
