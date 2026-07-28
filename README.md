@@ -7,19 +7,19 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     24 hrs 40 mins      ███████████████████░░░░░░   77.51 % 
-TypeScript               3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Java Properties          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Dart                     27 hrs 17 mins      ███████████████████████░░   90.08 % 
+YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Java Properties          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Groovy                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-Neovim                   29 hrs 59 mins      ████████████████████████░   94.23 % 
-Zed                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Obsidian                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Neovim                   29 hrs 14 mins      ████████████████████████░   96.53 % 
+Zed                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Mac                      31 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -29,5 +29,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 20:05:25 UTC
+ Last Updated on 28/07/2026 20:02:33 UTC
 <!--END_SECTION:waka-->
