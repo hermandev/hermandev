@@ -7,19 +7,19 @@
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Rust                     7 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
-Dart                     3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-TypeScript               3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-PHP                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Rust                     7 hrs 32 mins       ████████████░░░░░░░░░░░░░   49.29 % 
+TypeScript               3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+Dart                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+PHP                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 10 mins      ████████████████████████░   97.24 % 
-Zed                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Obsidian                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Neovim                   14 hrs 49 mins      ████████████████████████░   96.82 % 
+Zed                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Obsidian                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Mac                      17 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -29,5 +29,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2026 00:25:07 UTC
+ Last Updated on 07/08/2026 19:31:18 UTC
 <!--END_SECTION:waka-->
